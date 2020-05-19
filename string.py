@@ -1,2 +1,6 @@
+#this is my name 
 name = "mohammd aljabl "
-print(id(name))
+print (name)
+#this is my age 
+age = 30 
+print(age)
