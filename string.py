@@ -1,3 +1,4 @@
 fname = 'mohammd'
 lname ='aljabl'
-print (fname + " " + lname)
+full_name = "mohammd aljabl"
+print (full_name.replace(lname,full_name))
